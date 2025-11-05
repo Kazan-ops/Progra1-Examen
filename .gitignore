@@ -6,8 +6,10 @@
 *.obj
 *.exe
 *.pdb
+*.o
 *.idb
 *.ilk
+*.json
 *.tlh
 *.tli
 *.pch

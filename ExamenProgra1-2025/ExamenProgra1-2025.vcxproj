@@ -125,14 +125,19 @@
   <ItemGroup>
     <ClCompile Include="DataLoader.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="PizzaRepository.cpp" />
+    <ClCompile Include="PizzaBuilder.cpp" />
+    <ClCompile Include="TomatoesRepository.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataLoader.h" />
-    <ClInclude Include="PizzaRepository.h" />
+    <ClInclude Include="PizzaBuilder.h" />
+    <ClInclude Include="TomatoesRepository.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="pizzas.txt" />
+    <Text Include="cheese.txt" />
+    <Text Include="herbs.txt" />
+    <Text Include="meats.txt" />
+    <Text Include="tomatoes.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
