@@ -138,5 +138,5 @@ Modificar la clase `PizzaBuilder` para incluir su ingrediente:
 ✅ El seguimiento de cantidades funciona correctamente para todos los ingredientes
 ✅ El usuario puede construir una pizza completa con múltiples tipos de ingredientes
 ✅ Sin errores de compilación
-✅ La aplicación ejecuta sin fallos
-✅ Código limpio y mantenible siguiendo patrones del proyecto
+✅ La aplicación ejecuta sin fallos al descargarse del repositorio y builder.
+✅ Código limpio y mantenible siguiendo patrones especificados en el proyecto.
