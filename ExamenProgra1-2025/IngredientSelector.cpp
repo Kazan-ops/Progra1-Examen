@@ -45,3 +45,4 @@ template class IngredientSelector<TomatoesRepository>;
 #include "MeatsRepository.h"
 
 template class IngredientSelector<MeatsRepository>;
+
