@@ -6,6 +6,8 @@
 #include "IngredientSelector.h"
 #include "MeatsRepository.h"
 
+#include "CheeseRepository.h"
+
 class PizzaBuilder {
 public:
     PizzaBuilder();
@@ -22,6 +24,7 @@ private:
     TomatoesRepository tomatoRepo_;
     MeatsRepository meatRepo_;
 	HerbsRepository herbRepo_;
+	CheeseRepository cheeseRepo_;
     std::vector<std::string> selectedIngredients_;
 
     
